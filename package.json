@@ -1,5 +1,5 @@
 {
-  "name": "TODO",
+  "name": "animate",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -30,6 +30,7 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
+    "animejs": "^3.2.1",
     "bootstrap": "^4.5.3",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
